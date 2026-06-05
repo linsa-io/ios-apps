@@ -50,6 +50,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Fitness
 
+- [HealthSync](https://healthsync.megabyte.sh/apple-health-app-sync) - Sync selected Apple Health data from HealthKit to a private backend API.
 - [Strong](https://itunes.apple.com/us/app/strong-workout-tracker-gym-log-exercise-journal/id464254577?mt=8) - Track workouts and see your progress.
 
 ## Games
