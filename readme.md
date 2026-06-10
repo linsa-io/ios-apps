@@ -59,6 +59,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Journalling
 
 - [Day One](http://dayoneapp.com/) - Write journal entries with multiple photographs and journals [end to end encrypted](http://help.dayoneapp.com/day-one-sync/end-to-end-encryption-faq).
+- [MirrorNotes](https://mirrornotes.org) - Private AI journaling where all AI (daily prompts, mood tracking, Ask-your-journal) runs on-device via Gemma 3. Journal text never leaves your iPhone. Free to write forever.
 
 ## Music
 
