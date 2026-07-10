@@ -87,6 +87,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Due](http://www.dueapp.com/) - Set quick reminders for things.
 - [Duet](https://www.duetdisplay.com/) - Ex-Apple Engineers turn your iPad into an extra display.
 - [Launch center pro](https://contrast.co/launch-center-pro/) - Create easily accessible shortcuts to open apps, activate URL schemes and more.
+- [LogZero](https://logzero.app) - On-device habit and mood tracker with no account, ads, or trackers.
 - [MindNode](https://mindnode.com/) - Visualise your thoughts and ideas with mind maps.
 - [Notion](https://www.notion.so) - The all-in-one workspace - for notes, tasks, wikis, and databases.
 - [PDF Expert](https://pdfexpert.com/) - Read and edit PDF files.
