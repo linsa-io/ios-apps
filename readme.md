@@ -82,6 +82,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [2Do](https://www.2doapp.com) - Powerful and flexible GTD task manager.
 - [Adguard](https://itunes.apple.com/us/app/adguard-adblock-and-privacy-protection/id1047223162?mt=8) - Content blocker for Safari blocking ads using [native Safari blocking API](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
+- [AI Dictation](https://aidictation.com) - Open-source voice-to-text app and keyboard for iPhone and iPad.
 - [BTT remote](http://bttremote.com) - Remotely control your macOS (requires [BetterTouchTool](https://www.boastr.net/) installation).
 - [Calm](https://itunes.apple.com/us/app/calm-meditation-to-relax-focus-sleep-better/id571800810?mt=8) - Simple meditation app.
 - [Due](http://www.dueapp.com/) - Set quick reminders for things.
