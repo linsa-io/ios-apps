@@ -93,6 +93,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Scanbot](https://itunes.apple.com/us/app/scanbot-scanner-app-fax/id834854351?mt=8) - Scan documents and QR codes.
 - [Soulver](http://www.acqualia.com/soulver/iphone/) - Notepad calculator for quick calculations.
 - [Streaks](https://streaksapp.com) - Mark and follow up on important habits.
+- [SproutGuard](https://apps.apple.com/us/app/sproutguard-screen-time-detox/id6768664921?ct=ios-apps-list) - On-device screen-time blocker for adults with focus sessions and a daily streak.
 - [Taskade](https://itunes.apple.com/app/taskade-smart-lists-and-notes/id1264713923) - Smart task lists with real-time cross-platform syncing and team collaboration.
 - [Trello](https://itunes.apple.com/us/app/trello/id461504587?mt=8) - Keep track of things with a flexible [Kanban board](http://en.wikipedia.org/wiki/Kanban_board).
 - [Ulysses](https://www.ulyssesapp.com/) - Powerful and flexible writing app.
