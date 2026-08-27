@@ -60,6 +60,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Day One](http://dayoneapp.com/) - Write journal entries with multiple photographs and journals [end to end encrypted](http://help.dayoneapp.com/day-one-sync/end-to-end-encryption-faq).
 - [MirrorNotes](https://mirrornotes.org) - Private AI journaling where all AI (daily prompts, mood tracking, Ask-your-journal) runs on-device via Gemma 3. Journal text never leaves your iPhone. Free to write forever.
+- [Vent log](https://apps.apple.com/app/id6446820066) - Tags what you wrote with the emotions in your own wording, and counts them over 30 days.
 
 ## Music
 
