@@ -17,6 +17,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Security](#security)
 - [Social](#social)
 - [Travelling](#travelling)
+- [Utilities](#utilities)
 - [Related](#related)
 
 ## Code
@@ -115,6 +116,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Travelling
 
 - [CityMaps2Go](https://itunes.apple.com/us/app/citymaps2go-plan-trips-travel-guide-offline-maps/id408866084?mt=8) - Has downloadable offline maps for travelling with no connectivity.
+
+## Utilities
+
+- [Hairspring: Watch Timegrapher](https://apps.apple.com/us/app/hairspring-watch-timegrapher/id6797146448) - Measures a mechanical watch's rate, beat error, and amplitude, then checks whether repeated readings statistically agree.
 
 ## Related
 
