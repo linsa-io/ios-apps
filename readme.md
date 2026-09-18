@@ -47,6 +47,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [YNAB classic](https://itunes.apple.com/us/app/ynab-classic/id372076250?mt=8) - Free iOS client for [YNAB](https://www.youneedabudget.com/) app that lets you [be proactive](https://www.youneedabudget.com/method/) with your budgeting.
 - [WealthFront](https://www.wealthfront.com/) - Financial Planning & Robo-Investing for Millennials.
+- [Quantral](https://apps.apple.com/us/app/quantral-stock-signals/id6779207758) - Scores stocks 0-100 from what retail investors and market commentators post on Reddit, X, Substack and YouTube, and grades the accounts making the calls by track record.
 
 ## Fitness
 
