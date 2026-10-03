@@ -51,6 +51,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Fitness
 
 - [Strong](https://itunes.apple.com/us/app/strong-workout-tracker-gym-log-exercise-journal/id464254577?mt=8) - Track workouts and see your progress.
+- [Subskills](https://apps.apple.com/app/id6810049311) - Free sports technique videos sorted by sport, sub-skill and level.
 
 ## Games
 
