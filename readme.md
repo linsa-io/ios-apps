@@ -39,6 +39,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Anki](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8) - Create flashcards to remember things using [spaced repetition learning](http://en.wikipedia.org/wiki/Spaced_repetition).
 - [iBooks](https://itunes.apple.com/nl/app/ibooks/id364709193?l=en&mt=8) - Native reader of ePub and PDF files for iOS.
 - [Khan Academy](https://itunes.apple.com/us/app/khan-academy-you-can-learn-anything/id469863705?mt=8) - Free educational videos and exercises.
+- [StudyDaily](https://www.studydaily.app/en) - Flashcards with FSRS spaced repetition that import Anki decks with their review history.
 - [Terminology](http://agiletortoise.com/terminology/) - Quickly lookup unknown words using a dictionary.
 - [V for Wiki](http://v-for-wiki.com/) - Read wikipedia with beautiful typography.
 - [WolframAlpha](https://itunes.apple.com/us/app/wolframalpha/id334989259?mt=8) - Mathematical compute engine.
