@@ -84,6 +84,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Adguard](https://itunes.apple.com/us/app/adguard-adblock-and-privacy-protection/id1047223162?mt=8) - Content blocker for Safari blocking ads using [native Safari blocking API](https://developer.apple.com/library/content/documentation/Extensions/Conceptual/ContentBlockingRules/Introduction/Introduction.html).
 - [BTT remote](http://bttremote.com) - Remotely control your macOS (requires [BetterTouchTool](https://www.boastr.net/) installation).
 - [Calm](https://itunes.apple.com/us/app/calm-meditation-to-relax-focus-sleep-better/id571800810?mt=8) - Simple meditation app.
+- [Concise: Hemingway Editor](https://apps.apple.com/us/app/concise-hemingway-editor/id6783388958) - Core writing checks for readability, passive voice, adverbs and wordy phrases run on-device without an account or internet connection.
 - [Due](http://www.dueapp.com/) - Set quick reminders for things.
 - [Duet](https://www.duetdisplay.com/) - Ex-Apple Engineers turn your iPad into an extra display.
 - [Launch center pro](https://contrast.co/launch-center-pro/) - Create easily accessible shortcuts to open apps, activate URL schemes and more.
