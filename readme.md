@@ -55,6 +55,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Games
 
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8) - Open source chess game with online gameplay and challenges.
+- [BingoRoom: Bingo Card Maker](https://apps.apple.com/us/app/bingoroom-bingo-card-maker/id6787175804) - Create bingo cards, run a caller, and track called numbers for casual games at home, school, or small events.
 
 ## Journalling
 
@@ -94,6 +95,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Soulver](http://www.acqualia.com/soulver/iphone/) - Notepad calculator for quick calculations.
 - [Streaks](https://streaksapp.com) - Mark and follow up on important habits.
 - [Taskade](https://itunes.apple.com/app/taskade-smart-lists-and-notes/id1264713923) - Smart task lists with real-time cross-platform syncing and team collaboration.
+- [Tucklist: Night Routine](https://apps.apple.com/us/app/tucklist-night-routine/id6790840221) - Create custom bedtime steps, complete them one at a time, and review recent-night history.
 - [Trello](https://itunes.apple.com/us/app/trello/id461504587?mt=8) - Keep track of things with a flexible [Kanban board](http://en.wikipedia.org/wiki/Kanban_board).
 - [Ulysses](https://www.ulyssesapp.com/) - Powerful and flexible writing app.
 - [Week Cal](https://itunes.apple.com/us/app/week-calendar/id381059732?mt=8) - Set and stay on top of calendar events.
