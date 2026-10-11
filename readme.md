@@ -60,6 +60,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Day One](http://dayoneapp.com/) - Write journal entries with multiple photographs and journals [end to end encrypted](http://help.dayoneapp.com/day-one-sync/end-to-end-encryption-faq).
 - [MirrorNotes](https://mirrornotes.org) - Private AI journaling where all AI (daily prompts, mood tracking, Ask-your-journal) runs on-device via Gemma 3. Journal text never leaves your iPhone. Free to write forever.
+- [No Contact: Get Over Ex](https://apps.apple.com/us/app/no-contact-get-over-ex/id6777063890) - Track a no-contact streak, set personal breakup boundaries, and reflect on urges and progress.
 
 ## Music
 
