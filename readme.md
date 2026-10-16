@@ -50,6 +50,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Fitness
 
+- [KeepEatClean](https://keepeatclean.com) - Editable meal log for iPhone with Apple Health, a separate WHOOP connection and an Apple Watch companion.
 - [Strong](https://itunes.apple.com/us/app/strong-workout-tracker-gym-log-exercise-journal/id464254577?mt=8) - Track workouts and see your progress.
 
 ## Games
