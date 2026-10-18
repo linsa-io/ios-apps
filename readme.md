@@ -60,6 +60,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Day One](http://dayoneapp.com/) - Write journal entries with multiple photographs and journals [end to end encrypted](http://help.dayoneapp.com/day-one-sync/end-to-end-encryption-faq).
 - [MirrorNotes](https://mirrornotes.org) - Private AI journaling where all AI (daily prompts, mood tracking, Ask-your-journal) runs on-device via Gemma 3. Journal text never leaves your iPhone. Free to write forever.
+- [Sen](https://apps.apple.com/us/app/sen-ai-mental-wellness/id6818973571) - AI wellness companion to talk things through, log your mood and breathe with guided exercises, in English or Vietnamese.
 
 ## Music
 
