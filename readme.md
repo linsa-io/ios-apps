@@ -37,6 +37,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Education
 
 - [Anki](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8) - Create flashcards to remember things using [spaced repetition learning](http://en.wikipedia.org/wiki/Spaced_repetition).
+- [Helicon](https://apps.apple.com/app/apple-store/id6811677202?pt=125973633&ct=gh-linsa&mt=8) - PDF and EPUB reader with notes in the margin, Apple Pencil ink, a speed reading guide and review of your notes.
 - [iBooks](https://itunes.apple.com/nl/app/ibooks/id364709193?l=en&mt=8) - Native reader of ePub and PDF files for iOS.
 - [Khan Academy](https://itunes.apple.com/us/app/khan-academy-you-can-learn-anything/id469863705?mt=8) - Free educational videos and exercises.
 - [Terminology](http://agiletortoise.com/terminology/) - Quickly lookup unknown words using a dictionary.
