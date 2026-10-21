@@ -60,6 +60,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Day One](http://dayoneapp.com/) - Write journal entries with multiple photographs and journals [end to end encrypted](http://help.dayoneapp.com/day-one-sync/end-to-end-encryption-faq).
 - [MirrorNotes](https://mirrornotes.org) - Private AI journaling where all AI (daily prompts, mood tracking, Ask-your-journal) runs on-device via Gemma 3. Journal text never leaves your iPhone. Free to write forever.
+- [Daily One Word](https://apps.apple.com/app/apple-store/id6777126148?pt=128999194&ct=ios_apps_directory_2026_10_21&mt=8) - Save one anchor word on a color tile you choose; no mood label is needed. Notes, extra moments, and photos are optional, and entries stay on-device by default.
 
 ## Music
 
