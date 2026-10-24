@@ -9,6 +9,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Finance](#finance)
 - [Fitness](#fitness)
 - [Games](#games)
+- [Health](#health)
 - [Journalling](#journalling)
 - [Music](#music)
 - [Photography](#photography)
@@ -55,6 +56,10 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Games
 
 - [Lichess](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8) - Open source chess game with online gameplay and challenges.
+
+## Health
+
+- [CalDesk AI](https://caldeskai.com) - AI-powered calorie and macro tracker with photo-based food logging and a free TDEE/macro calculator.
 
 ## Journalling
 
