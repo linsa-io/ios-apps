@@ -85,6 +85,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [BTT remote](http://bttremote.com) - Remotely control your macOS (requires [BetterTouchTool](https://www.boastr.net/) installation).
 - [Calm](https://itunes.apple.com/us/app/calm-meditation-to-relax-focus-sleep-better/id571800810?mt=8) - Simple meditation app.
 - [Due](http://www.dueapp.com/) - Set quick reminders for things.
+- [Ripple](https://ripplefocus.github.io/en/ios/) - Free Screen Time app blocker for iOS 16+ and Android with uninstall protection through FamilyControls, scheduled blocking through DeviceActivity and a parent unlock code.
 - [Duet](https://www.duetdisplay.com/) - Ex-Apple Engineers turn your iPad into an extra display.
 - [Launch center pro](https://contrast.co/launch-center-pro/) - Create easily accessible shortcuts to open apps, activate URL schemes and more.
 - [MindNode](https://mindnode.com/) - Visualise your thoughts and ideas with mind maps.
