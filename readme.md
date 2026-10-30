@@ -90,6 +90,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [MindNode](https://mindnode.com/) - Visualise your thoughts and ideas with mind maps.
 - [Notion](https://www.notion.so) - The all-in-one workspace - for notes, tasks, wikis, and databases.
 - [PDF Expert](https://pdfexpert.com/) - Read and edit PDF files.
+- [Routine Run](https://apps.apple.com/us/app/routine-run-guided-checklists/id6812338054) - Step-by-step routines with a timer on each step, on the Lock Screen and Apple Watch.
 - [Scanbot](https://itunes.apple.com/us/app/scanbot-scanner-app-fax/id834854351?mt=8) - Scan documents and QR codes.
 - [Soulver](http://www.acqualia.com/soulver/iphone/) - Notepad calculator for quick calculations.
 - [Streaks](https://streaksapp.com) - Mark and follow up on important habits.
