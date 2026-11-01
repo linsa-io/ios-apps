@@ -41,6 +41,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Khan Academy](https://itunes.apple.com/us/app/khan-academy-you-can-learn-anything/id469863705?mt=8) - Free educational videos and exercises.
 - [Terminology](http://agiletortoise.com/terminology/) - Quickly lookup unknown words using a dictionary.
 - [V for Wiki](http://v-for-wiki.com/) - Read wikipedia with beautiful typography.
+- [VocaFlare AI](https://apps.apple.com/app/id6782392374) - Practice speaking a language by voice chat with AI tutors that correct grammar and word choice.
 - [WolframAlpha](https://itunes.apple.com/us/app/wolframalpha/id334989259?mt=8) - Mathematical compute engine.
 
 ## Finance
