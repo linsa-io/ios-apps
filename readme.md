@@ -45,6 +45,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Finance
 
+- [Oath Wallet](https://github.com/devdasx/oath-wallet) - Open-source multichain wallet for iPhone and iPad, written in Swift and SwiftUI.
 - [YNAB classic](https://itunes.apple.com/us/app/ynab-classic/id372076250?mt=8) - Free iOS client for [YNAB](https://www.youneedabudget.com/) app that lets you [be proactive](https://www.youneedabudget.com/method/) with your budgeting.
 - [WealthFront](https://www.wealthfront.com/) - Financial Planning & Robo-Investing for Millennials.
 
