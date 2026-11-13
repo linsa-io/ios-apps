@@ -68,6 +68,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Photography
 
 - [Instagram](https://itunes.apple.com/us/app/instagram/id389801252?mt=8) - Photo sharing social network owned by [Facebook](http://en.wikipedia.org/wiki/Facebook).
+- [KeepFirst](https://keepfirst.app/) - Keep-first iPhone photo cleaner that moves unselected items to a Review Bin before deletion.
 - [Pixelmator](http://www.pixelmator.com/ios/) - Powerful image editor.
 - [Slidebox](http://slidebox.co/) - Quickly delete and organise photos on your phone.
 - [VSCO](https://itunes.apple.com/us/app/vsco/id588013838?mt=8) - Powerful photo editing app and a photo sharing platform.
